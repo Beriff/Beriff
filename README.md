@@ -29,8 +29,6 @@ I enjoy coding in C#, C++ and Python and i am passionate about low-level systems
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="20" height="20"/> Working in Visual Studio
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="vs" width="20" height="20"/> Fighting with C++
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="vs" width="20" height="20"/> Praising C#
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="vs" width="20" height="20"/> Getting things done with Python
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="vs" width="20" height="20"/> Violating GPUs with OpenGL
 
 
 </td>
