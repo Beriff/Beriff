@@ -1,5 +1,4 @@
-🖐 Hi! I am Maxim, studying in SibSUTIS University (cybersecurity department).
-I enjoy coding in C#, C++ and Python and i am passionate about low-level systems and how things work under the hood. I like developing little games, mathematical/physical frameworks and utilities.
+🖐 Hi! I am passionate about low-level systems and how things work under the hood. I like developing little games, mathematical/physical frameworks and utilities.
 <hr/>
 <table width="960px">
 <tr>
